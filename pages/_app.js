@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import '../styles/globals.css'
 
-const liffId = process.env.NEXT_PUBLIC_LIFF_ID
+const liffId = "2006477399-yokJlXXe"
 
 function MyApp({ Component, pageProps }) {
   useEffect(async () => {
